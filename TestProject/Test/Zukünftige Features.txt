@@ -6,3 +6,5 @@ Hier entsteht Feature 4
 Es sollen noch viele weitere Zeilen entstehen. 
 Aber zuerst muss Feature 3 kommen
 >>>>>>> Feature_4
+
+Feature 5
