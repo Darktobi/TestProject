@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Dies ist das 3. Feature
 Das wird so richtig cool werden!
+=======
+Hier entsteht Feature 4
+Es sollen noch viele weitere Zeilen entstehen. 
+Aber zuerst muss Feature 3 kommen
+>>>>>>> Feature_4
